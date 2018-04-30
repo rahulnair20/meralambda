@@ -2,7 +2,7 @@
   "name": "meralambda1",
   "type": "flogo:trigger",
   "shim": "plugin",
-  "ref": "github.com/rahulnair20/lambda",
+  "ref": "github.com/rahulnair20/meralambda",
   "version": "0.0.1",
   "title": "LambdaaTrigger",
   "description": "Not So Simple Lambda Trigger",
