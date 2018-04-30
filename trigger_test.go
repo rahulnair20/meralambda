@@ -14,7 +14,7 @@ func getTestJsonMetadata() string {
 	return string(jsonMetadataBytes)
 }
 
-const testConfig string = `{
+/*const testConfig string = `{
   "id": "flogo-rest",
   //"ref": "github.com/TIBCOSoftware/flogo-contrib/trigger/lambda",
   "settings": {
@@ -27,7 +27,7 @@ const testConfig string = `{
     }
   ]
 }
-`
+`*/
 
 //type TestRunner struct {
 //}
