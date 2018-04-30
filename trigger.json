@@ -1,0 +1,22 @@
+
+  "name": "meralambda1",
+  "type": "flogo:trigger",
+  "shim": "plugin",
+  "ref": "github.com/rahulnair20/lambda",
+  "version": "0.0.1",
+  "title": "LambdaaTrigger",
+  "description": "Not So Simple Lambda Trigger",
+  "homepage": "https://github.com/rahulnair20/meralambda",
+  "settings": [
+  ],
+  "output": [
+    {
+      "name": "context",
+      "type": "string"
+    },
+    {
+      "name": "evt",
+      "type": "string"
+    }
+  ]
+}
